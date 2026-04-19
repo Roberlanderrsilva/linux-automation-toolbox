@@ -19,5 +19,8 @@ Este repositório contém um conjunto de scripts desenvolvidos para automatizar 
 * **Descrição:** Script de troubleshooting para reinicialização e correção de serviços de áudio (PulseAudio/PipeWire).
 
 ---
+---
 **Tecnologias:** Bash Scripting, Linux Admin, Git, Automação.
-**Contato:** roberlanderrsilva@gmail.com
+
+**Contato:**
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5541999013303)
