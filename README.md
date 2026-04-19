@@ -1,4 +1,4 @@
-
+![Capa do Projeto](capa-projeto.png)
 # 🛠️ Linux Automation Toolbox
 
 Este repositório contém um conjunto de scripts desenvolvidos para automatizar tarefas críticas de administração de sistemas Linux, focando em eficiência, manutenção e segurança de dados.
