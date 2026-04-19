@@ -1,15 +1,22 @@
-# Linux Automation Toolbox 🛠️
+# 🛠️ Linux Automation Toolbox
 
-![Capa do Projeto](./capa-projeto.png)
+Este repositório contém um conjunto de scripts desenvolvidos para automatizar tarefas críticas de administração de sistemas Linux, focando em eficiência, manutenção e segurança de dados.
 
-Repositório profissional de scripts para automação de manutenção, áudio e **monitoramento de recursos** no Linux.
+## 🚀 Scripts Disponíveis
 
-## 🚀 Ferramentas Incluídas:
+### 💾 Data Integrity Backup (`data_integrity_backup.sh`)
+* **Descrição:** Realiza backup incremental e sincronização de diretórios em dispositivos externos.
+* **Destaque Técnico:** Utiliza `rsync` para otimização de banda e tempo, incluindo logs de operação e validação de montagem de hardware.
 
-* **monitor_sistema.sh:** Painel em tempo real de CPU, RAM e Disco.
-* **system_maintenance.sh:** Automatiza o update e limpeza profunda do sistema.
-* **linux_audio_repair.sh:** Restaura configurações de áudio e microfone instantaneamente.
+### 🧹 System Maintenance (`system_maintenance.sh`)
+* **Descrição:** Automação de limpeza do sistema, removendo caches desnecessários e otimizando o espaço em disco.
 
-## 👷 Autor:
-**Roberlande Silva**
-*Analista focado em Automação e Performance de Sistemas.*
+### 📊 System Monitor (`monitor_sistema.sh`)
+* **Descrição:** Monitoramento em tempo real de recursos vitais (CPU, Memória e Processos).
+
+### 🔊 Linux Audio Repair (`linux_audio_repair.sh`)
+* **Descrição:** Script de troubleshooting para reinicialização e correção de serviços de áudio (PulseAudio/PipeWire).
+
+---
+**Tecnologias:** Bash Scripting, Linux Admin, Git, Automação.
+**Contato:** roberlanderrsilva@gmail.com
