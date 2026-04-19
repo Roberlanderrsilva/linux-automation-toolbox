@@ -1,14 +1,14 @@
 # Linux Automation Toolbox 🛠️
 
-![Minecraft Automation](video-demo.mp4)
+![Capa do Projeto](./capa-projeto.png)
 
 Repositório profissional de scripts para automação de manutenção, áudio e **monitoramento de recursos** no Linux.
 
-## 🚀 O que este Toolbox faz:
+## 🚀 Ferramentas Incluídas:
 
 * **monitor_sistema.sh:** Painel em tempo real de CPU, RAM e Disco.
-* **atualizador.sh:** Automatiza o update e limpeza do sistema.
-* **audio-fixer.sh:** Restaura configurações de áudio instantaneamente.
+* **system_maintenance.sh:** Automatiza o update e limpeza profunda do sistema.
+* **linux_audio_repair.sh:** Restaura configurações de áudio e microfone instantaneamente.
 
 ## 👷 Autor:
 **Roberlande Silva**
